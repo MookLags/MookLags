@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Mitchell 😃
+I love typing fast and making things work. I used to be a teacher; now I'm a dev in the US Air Force ✈️
+
+### Why go from teaching to tech?
+When I was finishing up my degree in linguistics, I was advised to get into Natural Language Processing if I wanted to have a good career. I taught for three years before this advice popped in my head when my wife and I were preparing for the birth of our daughter; it was love at first 'Hello world!'
+
+### Why contribute to open source?
+There are some projects that I use that I want to help improve. The official FLTR (Foreign Language Text Reader) owner has removed his project from SourceForge, but I have an unnoficial fork of it here for preservation purposes. A modern alternative, LUTE, is fantastic and you should give it a try if you want to learn a language!
+
+### What are you working on?
+I'm refining my testing chops at the moment. Reach out if you have a project that needs some test coverage!
 
 <!--
 **MookLags/MookLags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
