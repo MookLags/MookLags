@@ -8,7 +8,7 @@ When I was finishing up my degree in linguistics, I was advised to get into Natu
 There are some projects that I use that I want to help improve. The official FLTR (Foreign Language Text Reader) owner has removed his project from SourceForge, but I have an unnoficial fork of it here for preservation purposes. A modern alternative, LUTE, is fantastic and you should give it a try if you want to learn a language!
 
 ### What am I working on?
-I'm refining my testing chops at the moment and building something big for my own practice's sake. Reach out if you have a project that needs some test coverage! 
+Outside of work I'm just focusing on pursuing excellence in my tools and in the kind of work I really enjoy. 
 
 <!--
 **MookLags/MookLags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
