@@ -1,14 +1,14 @@
-## Hi, I'm Mitchell 😃
-I love typing fast and making things work. I used to be a teacher; now I'm a dev in the US Air Force ✈️
+## Hi, I'm Mitchell : - )
+I like typing fast and also Python. I used to be a French teacher. Now, I'm a dev in the US Air Force
 
-### Why go from teaching to tech?
-When I was finishing up my degree in linguistics, I was advised to get into Natural Language Processing if I wanted to have a good career. I taught for three years before this advice popped in my head when my wife and I were preparing for the birth of our daughter; it was love at first 'Hello world!'
+### Current work
+I'm working with clients as a contract computer programmer and data analyst. I write simple automation programs for local folks and I do light BI (Business Intelligence) and data analysis for small businesses. If you'd like a glance of my work experience, I have an online CV [here](https://mitchell-lagaras.dev).
 
-### I'm new to open source!
-There are some projects that I use that I want to help improve. The official FLTR (Foreign Language Text Reader) owner has removed his project from SourceForge, but I have an unnoficial fork of it here for preservation purposes. A modern alternative, LUTE, is fantastic and you should give it a try if you want to learn a language!
+### Other Projects
+What you see here is mostly some fun projects I do when I find the time. If you want to tinker with anything I've built, please feel free to reach out.
 
-### What am I working on?
-Outside of work I'm just focusing on pursuing excellence in my tools and in the kind of work I really enjoy. 
+### Connecting
+I'm always happy to expand my network. If you want to build something together, reach out! My contact info is available on my website. 
 
 <!--
 **MookLags/MookLags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
